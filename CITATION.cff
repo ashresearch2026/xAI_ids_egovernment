@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Explainable Machine Learning-Based Intrusion Detection for E-Government Cyber Defence"
+message: "If you use this repository, please cite it as follows."
+type: software
+authors:
+  - family-names: "Islam"
+    given-names: "Md Ashraful"
+repository-code: "https://github.com/ashresearch2026/xAI_ids_egovernment"
+url: "https://github.com/ashresearch2026/xAI_ids_egovernment"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-08-28"
+abstract: "Source code, experimental notebooks, data, and experimental results associated with research on explainable machine learning-based intrusion detection for e-government cyber defence."
+keywords:
+  - intrusion detection
+  - explainable AI
+  - machine learning
+  - cybersecurity
+  - e-government
+  - cyber defence
